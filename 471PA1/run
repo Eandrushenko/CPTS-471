@@ -1,0 +1,2 @@
+cc main.c global.c files.c
+./a.out file 0 parameters.config > text 

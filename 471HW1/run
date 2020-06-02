@@ -1,0 +1,2 @@
+cc main.c align.c read.c
+./a.out input.fasta 0 parameters.config > text

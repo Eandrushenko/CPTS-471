@@ -1,0 +1,27 @@
+Scores:    match = 1, mismatch = -1, h = -2, g = -2
+
+Sequence 1 = "s1", length = 134 characters
+Sequence 2 = "s2", length = 145 characters
+
+s1  000001    acatgctacacgta-ctc-cgat-accccgtaaccgataacgatacacagacctcgtac  000057
+              |||| ||  ||| | ||| |||| ||||| ||||||||||||||  ||  |||||||||
+s2  000001    acattct--acgaacctctcgataaccccataaccgataacgattgac--acctcgtac  000056
+
+s1  000057    acatgctacacgta-ctc-cgat-accccgtaaccgataacgatacacagacctcgtac  000113
+              |||| ||  ||| | ||| |||| ||||| ||||||||||||||  ||  |||||||||
+s2  000056    acattct--acgaacctctcgataaccccataaccgataacgattgac--acctcgtac  000111
+
+s1  000113    acatgctacacgta-ctc-cgat-accccgtaaccgataacgatacacagacctcgtac  000169
+              |||| ||  ||| | ||| |||| ||||| ||||||||||||||  ||  |||||||||
+s2  000111    acattct--acgaacctctcgataaccccataaccgataacgattgac--acctcgtac  000166
+
+
+
+Report:
+
+Global optimal score = 60
+
+Number of: matches = 117, mismatches = 11, gaps = 23, opening gaps = 16
+
+Identities = 117/151 (77.483444%), Gaps = 23/151 (15.231788%)
+

@@ -1,0 +1,2 @@
+void parameters(char* filename);
+
